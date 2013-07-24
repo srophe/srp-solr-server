@@ -1,0 +1,2 @@
+[solr]
+192.168.35.10 ansible_ssh_user=root
