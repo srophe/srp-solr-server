@@ -1,3 +1,5 @@
+2026-07-16: Archiving this repository as no longer needed. Syriaca.org and related projects currently use the Gaddel application for publishing data, [srophe/Gaddel](https://github.com/srophe/Gaddel)
+
 SRP Solr Deployment
 ===================
 
